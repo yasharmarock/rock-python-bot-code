@@ -58,4 +58,4 @@ async def on_message(message):
     await client.process_commands(message)
     # This is the TOKEN to make bot work on
 
-client.run('NzkwMjE2MTM4MTgwMjYzOTM2.X99YIA.9PZ5qQ256M9jQXxJRUtSlKSzaXM')
+client.run('Bot_token_here')
